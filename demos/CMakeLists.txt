@@ -1,0 +1,3 @@
+
+add_executable(DemoHelloWorld DemoHelloWorld.cpp)
+target_link_libraries(DemoHelloWorld HelloWorld)
